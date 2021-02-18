@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/WandaVisionChat/static/css/main.32780961.chunk.css",
-    "main.js": "/WandaVisionChat/static/js/main.b9b1f57c.chunk.js",
-    "main.js.map": "/WandaVisionChat/static/js/main.b9b1f57c.chunk.js.map",
+    "main.css": "/WandaVisionChat/static/css/main.b1f8b010.chunk.css",
+    "main.js": "/WandaVisionChat/static/js/main.03ec24a8.chunk.js",
+    "main.js.map": "/WandaVisionChat/static/js/main.03ec24a8.chunk.js.map",
     "runtime-main.js": "/WandaVisionChat/static/js/runtime-main.370b3fef.js",
     "runtime-main.js.map": "/WandaVisionChat/static/js/runtime-main.370b3fef.js.map",
-    "static/js/2.71fd32b9.chunk.js": "/WandaVisionChat/static/js/2.71fd32b9.chunk.js",
-    "static/js/2.71fd32b9.chunk.js.map": "/WandaVisionChat/static/js/2.71fd32b9.chunk.js.map",
+    "static/js/2.100983d7.chunk.js": "/WandaVisionChat/static/js/2.100983d7.chunk.js",
+    "static/js/2.100983d7.chunk.js.map": "/WandaVisionChat/static/js/2.100983d7.chunk.js.map",
     "index.html": "/WandaVisionChat/index.html",
-    "static/css/main.32780961.chunk.css.map": "/WandaVisionChat/static/css/main.32780961.chunk.css.map",
-    "static/js/2.71fd32b9.chunk.js.LICENSE.txt": "/WandaVisionChat/static/js/2.71fd32b9.chunk.js.LICENSE.txt"
+    "static/css/main.b1f8b010.chunk.css.map": "/WandaVisionChat/static/css/main.b1f8b010.chunk.css.map",
+    "static/js/2.100983d7.chunk.js.LICENSE.txt": "/WandaVisionChat/static/js/2.100983d7.chunk.js.LICENSE.txt",
+    "static/media/swordimg.464e667d.png": "/WandaVisionChat/static/media/swordimg.464e667d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.370b3fef.js",
-    "static/js/2.71fd32b9.chunk.js",
-    "static/css/main.32780961.chunk.css",
-    "static/js/main.b9b1f57c.chunk.js"
+    "static/js/2.100983d7.chunk.js",
+    "static/css/main.b1f8b010.chunk.css",
+    "static/js/main.03ec24a8.chunk.js"
   ]
 }

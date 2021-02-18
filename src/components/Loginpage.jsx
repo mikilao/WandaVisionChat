@@ -23,7 +23,7 @@ const LoginForm = ( )=>{
         window.location.reload();
     }
     catch(error){
-         setError('Incorrect, Try Again')
+         setError('Incorrect, Try Again!')
     }
 }
     return(

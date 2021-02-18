@@ -1,6 +1,7 @@
  import MessageForm from './MessageForm';
  import TheirMessage from './TheirMessage';
- import MyMessage from './MyMessage';
+ import MyMessage from './MyMessage'; 
+ import swordimg from '../swordimg.png';
 
  const ChatFeed =(props) => {
    //destructuring the props
@@ -19,7 +20,7 @@
       />
     ));
 
-    
+
     const renderMessages = () => {
         const keys = Object.keys(messages);
     
@@ -49,6 +50,9 @@ if(!chat) return 'Loading...'
              <div className="chat-title-container">
                  <div className="chat-title">
                      {chat?.title}
+                 </div>
+                 <div>
+                    <img  className="sword-img" src={swordimg} />
                  </div>
                  <div className="chat-subtitle">
                      {chat.people.map((person) => `${person.person.username}`)}

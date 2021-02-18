@@ -7,21 +7,21 @@
   }
   
   .ce-chat-list {
-    background-color: rgb(240, 240, 240) !important;
+    background-color:#AB274F !important;
   }
   
   .ce-chats-container {
-    background-color: rgb(240, 240, 240) !important;
+    background-color: #AB274F !important;
   }
   
   .ce-active-chat-card {
-    background-color: #cabcdc !important;
+    background-color: #FFBF00!important;
     border: 4px solid #cabcdc !important;
     border-radius: 0px !important;
   }
   
   .ce-chat-subtitle-text {
-    color: #595959 !important;
+    color: #faf8f8 !important;
   }
   
   .ce-chat-form-container {
@@ -46,7 +46,7 @@
   }
   
   .ce-settings {
-    background-color: rgb(240, 240, 240) !important;
+    background-color: #AB274F !important;
   }
   
   .ce-autocomplete-input {
@@ -69,12 +69,19 @@
   }
   
   /* CUSTOM FEED */
-  
+  .sword-img{
+    margin-right: 18px;
+    object-fit: cover;
+    border-radius: 6px;
+    height: 10vw;
+
+  }
   .chat-feed {
     height: 100%;
     width: 100%;
     overflow: scroll;
-    background-color: rgb(240, 240, 240);
+    background-color: #FFBF00;
+    font-family: 'Julius Sans One', sans-serif;
   }
   
   .chat-title-container {
@@ -84,9 +91,10 @@
   }
   
   .chat-title {
-    color: #7554a0;
+    color: #AB274F;
     font-weight: 800;
     font-size: 24px;
+    font-family: 'Fugaz One', cursive;
   }
   
   .chat-subtitle {
@@ -158,7 +166,7 @@
     bottom: 0px;
     width: calc(100% - 36px);
     padding: 18px;
-    background-color: rgb(240, 240, 240);
+    /*background-color: #FFBF00;*/
   }
   
   .message-form {
